@@ -17,6 +17,7 @@ bloom filter with expiration
  * 	BloomFilter<int> bf；
  * 	int elem = 1;
  * 	bf.Add(elem);
+ * 	bf.Print();
  * 	bf.In(elem);
  * 	bf.Clear();
  */
